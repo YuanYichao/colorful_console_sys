@@ -1,4 +1,4 @@
-#include "../color_ostream.hpp"
+#include "color_ostream.hpp"
 #include <string>
 #include <utility>
 
